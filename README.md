@@ -189,3 +189,5 @@ Initially, I used the variance of curvature (curvature_var) as the sole evaluati
 
 Model Selection:
 Through experimentation, I found that using GRU instead of LSTM, along with tuning the number of hidden units, yielded better results. Additionally, employing a checkpointing strategy that saves the model achieving the lowest validation loss during training proved to be an effective way to identify the best-performing model.
+
+I’ve uploaded the file titled 'More elaborate Code'. Please take a look when you get a chance.
